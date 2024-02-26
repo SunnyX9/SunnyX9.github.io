@@ -1,2 +1,2 @@
-# SunnyX9.github.io
-Github Pages Personal Webpage
+# About
+I am Sanni Kuikka, a PhD student at Stockholm University, Department of Sociology, Demography Unit.
