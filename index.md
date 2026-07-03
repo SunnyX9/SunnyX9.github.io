@@ -2,6 +2,9 @@
 layout: home
 title: Home
 ---
+<style>
+  p { text-align: justify; }
+</style>
 
 <img src="profile.jpg" alt="Profile Photo" style="float: right; width: 250px; margin-left: 30px; margin-bottom: 20px; border-radius: 5px;">
 
@@ -10,7 +13,7 @@ I am a PhD candidate at the Department of Sociology, Demography Unit, Stockholm 
 
 In my dissertation I leverage Finnish and Swedish population registers and machine learning methods, to understand complexities in the human life course. I study the predictability of life course trajectories and life outcomes, as well as intergenerational processes, such as SES transmission. This work is done in affiliation with the project Understanding society through register-based machine learning at Linköping University with Maria Brandén, and the 1987 Finnish Birth Cohort study at The Finnish Institute for Health and Welfare. 
 
-I am also affiliated with the Institute of Environmental Medicine at Karolinska Institute, where I work as a part of the group called The New World of Work, with Theo Bodin.
+I am also affiliated with the Institute of Environmental Medicine at Karolinska Institute, where I work as a part of the group The New World of Work, with Theo Bodin.
 
 Contact:
 firstname.lastname @ sociology.su.se
