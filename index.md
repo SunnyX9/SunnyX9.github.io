@@ -1,4 +1,4 @@
-YAML
+Markdown
 ---
 layout: single
 title: "About me"
