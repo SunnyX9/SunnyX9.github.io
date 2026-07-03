@@ -1,9 +1,7 @@
-YAML
-
 main:
   - title: "Home"
     url: /
-  -title: "Talks"
+  - title: "Talks"
     url: /talks/
   - title: "Research"
     url: /research/
