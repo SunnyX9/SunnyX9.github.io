@@ -3,7 +3,8 @@ layout: home
 title: Home
 ---
 
-![Profile Photo](profile.jpg)
+<img src="profile.jpg" alt="Profile Photo" style="float: right; width: 250px; margin-left: 30px; margin-bottom: 20px; border-radius: 5px;">
+
 
 I am a PhD candidate at the Department of Sociology, Demography Unit, Stockholm University. I work with computational methods and approaches with Nordic population register data to study topics related to inequality, segregation, and life-course trajectories. I hold a MSc in Computational Social Science from The Institute for Analytical Sociology at Linköping University, as well as both a bachelor’s degree and work experience in the field of social welfare.
 
