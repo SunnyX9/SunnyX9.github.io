@@ -1,3 +1,10 @@
+Markdown
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
 SANNI KUIKKA
 Curriculum Vitae | July 2026
 
