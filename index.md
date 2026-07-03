@@ -16,6 +16,7 @@ In my dissertation I leverage Finnish and Swedish population registers and machi
 I am also affiliated with the Institute of Environmental Medicine at Karolinska Institute, where I work as a part of the group The New World of Work, with Theo Bodin.
 
 ## Contact:
-firstname.lastname @ sociology.su.se
-https://www.linkedin.com/in/sanni-kuikka/
-https://bsky.app/profile/sunnyx9.bsky.social
+
+* firstname.lastname @ sociology.su.se
+* https://www.linkedin.com/in/sanni-kuikka/
+* https://bsky.app/profile/sunnyx9.bsky.social
