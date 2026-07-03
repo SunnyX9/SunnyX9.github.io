@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Research
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-Publications
+## Publications
 
 * 2024 	Kuikka, S. The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach. Socius, 10. 
 * 2022 	Beckley, A., Kuikka, S., Sivertsson F. & Sarnecki J. The Stockholm life-course project: investigating offending and non-lethal severe violent victimization, Nordic Journal of Criminology, 23:1, 61-82.
