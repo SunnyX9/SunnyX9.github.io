@@ -1,7 +1,23 @@
+YAML
+
 title: Sanni Kuikka
-theme: minima
-header_pages:
-  - index.md
-  - research.md
-  - pedagogy.md
-  - cv.md
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-include-cache
+author:
+  name: Your Name
+  avatar: "/profile.jpg"
+  bio: "Computational Social Scientist and PhD candidate at Stockholm University"
+  location: "Stockholm, Sweden"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:sanni.kuikka@sociology.su.se"
+    - label: "Bluesky"
+      icon: "fas fa-bluesky"
+      url: "https://bsky.app/profile/sunnyx9.bsky.social"
+    - label: "LinkedIn"
+      icon: "fas fa-linked-in"
+      url: "https://www.linkedin.com/in/sanni-kuikka/"
+
