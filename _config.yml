@@ -5,10 +5,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-include-cache
+
 author:
-  name: Your Name
+  name: Sanni Kuikka
   avatar: "/profile.jpg"
-  bio: "Computational Social Scientist and PhD candidate at Stockholm University"
+  bio: "Computational Social Scientist and PhD candidate in Sociological Demography"
   location: "Stockholm, Sweden"
   links:
     - label: "Email"
@@ -20,5 +21,3 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-linked-in"
       url: "https://www.linkedin.com/in/sanni-kuikka/"
-
-
